@@ -6,6 +6,8 @@ int main(){
 	printf("vcdfvsdfv"./n);
 	printf("vcdfvsdfv"./n);
 	printf("vcdfvsdfv"./n);
-	printf("vcdfvsdfv"./n);
+
+
+
 	printf("vcdfvsdfv"./n);
 }
