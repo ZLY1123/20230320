@@ -47,7 +47,10 @@ int main(){
 ## 插入超链接
 [bilibili](https://www.bilibili.com "点击进入B站")
 
-
+## 插入图片
+![流程图](C://Users//Administrator//Desktop//AOMDV-FA.png "悬停标题")
+***传到GITHUB上，显示不了，因为是本地地址，本地能看到；***
+***上传后还能看到，需要使用网络地址***
 
 
 
